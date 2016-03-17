@@ -12,7 +12,9 @@ public class ProbaTypow
           System.in.read(b);       // odczyt danych ze strumienia wej.
           s = new String(b);       // zainicjowanie s - zawarto�� z tablicy b
           System.out.println("Witaj " + s + "!");
-          // dodałem komentarz
+
+          
+          // zmieniłem komentarz
     }
 }
 
